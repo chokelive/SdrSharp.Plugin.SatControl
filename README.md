@@ -12,6 +12,6 @@ Plugin for SDR Sharp to get infomation from satellite and control doppler, Rotat
 		 
 ## Screeen Short
 
-(./Screenshort.jpg)
+[Screenshort](Screenshort.jpg)
 
 73 E29AHU
