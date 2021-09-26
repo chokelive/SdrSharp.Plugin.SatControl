@@ -1,4 +1,4 @@
-# SDRSharp.Plugin.EigControl
+# SDRSharp.Plugin.RotorControl
 Plugin for SDR Sharp to get infomation from satellite and control doppler, Rotator and TX radio frequency.
 ## Download
 * lastest compiled version is available on github 
@@ -12,6 +12,6 @@ Plugin for SDR Sharp to get infomation from satellite and control doppler, Rotat
 		 
 ## Screeen Short
 
-[Screenshort](Screenshort.jpg)
+![Screenshort](Screenshort.jpg)
 
 73 E29AHU
